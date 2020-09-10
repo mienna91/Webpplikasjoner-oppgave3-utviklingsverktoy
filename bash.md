@@ -1,7 +1,7 @@
 # Webpplikasjoner-oppgave3-utviklingsverktoy
  Oppgaver tilhørende oppgave3 i webapplikasjoner
 
-##Oppgave 1 - Bash cardio
+## Oppgave 1 - Bash cardio
 
 ### Lage mappe 			 -> mkdir "mappe"
 ### Lage fil i mappen 		 -> cat > fil.txt
