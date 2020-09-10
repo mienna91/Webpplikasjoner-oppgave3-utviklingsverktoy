@@ -11,9 +11,9 @@
 ### Uten cache:
 #### DOMContentLoaded: 543ms
 #### Load: 717ms
-### 3. Audit: 
+### 3. Audit (Desktop): 
 #### <img src="audits.png">
 ### 4. Antall eksterne requests: 4 XHR and Fetch (108 requests in total)
 ### 5. Hva er "Content-Type" i response header: text/html;charset=utf-8
 ### 6. Hva er "Cache-Control" i request header: max-age=0
-### 7. Hvilken protokoll bruker den siden?: HTTPS
+### 7. Hvilken protokoll bruker den siden?: HTTPS (HTTP/2 for requests)
