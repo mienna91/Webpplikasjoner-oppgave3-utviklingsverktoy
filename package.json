@@ -1,0 +1,38 @@
+{
+  "name": "Webpplikasjoner-oppgave3-utviklingsverktoy",
+  "version": "1.0.0",
+  "description": "Oppgaver tilhørende oppgave3 i webapplikasjoner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mienna91/Webpplikasjoner-oppgave3-utviklingsverktoy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mienna91/Webpplikasjoner-oppgave3-utviklingsverktoy/issues"
+  },
+  "homepage": "https://github.com/mienna91/Webpplikasjoner-oppgave3-utviklingsverktoy#readme",
+  "dependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/polyfill": "^7.11.5",
+    "@babel/preset-env": "^7.11.5"
+  },
+  "Browserlist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
