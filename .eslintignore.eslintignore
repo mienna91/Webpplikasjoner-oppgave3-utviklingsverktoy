@@ -4,3 +4,5 @@ dist
 *.lock
 Dockerfile
 .next
+lib
+bundle.js
