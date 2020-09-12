@@ -9,5 +9,5 @@ module.exports = merge(common, {
     contentBase: path.resolve(__dirname, 'public'),
     historyApiFallback: true,
   },
-  // devtool: 'eval-source-map',
+  devtool: 'eval-source-map',
 });
