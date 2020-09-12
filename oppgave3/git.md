@@ -26,4 +26,4 @@ Oppgaver tilhørende oppgave3 i webapplikasjoner
 
 <img src="conflict.png">
 
-### Resolve merge conflict
+### Resolve merge conflict -> Aksepterte begge forandringer, fullførte merge, commita og pusha
