@@ -16,14 +16,14 @@ Oppgaver tilhørende oppgave3 i webapplikasjoner
 
 ### Pushe endringene til repo -> git push origin dev
 
-### Lage en fil i dev branch remote ->
+### Lage en fil i dev branch remote -> lagde en ny js fil på github
 
-### Hente endringene lokalt
+### Hente endringene lokalt -> git pull https://github.com/mienna91/test dev
 
-### Merge filene fra dev i master
+### Merge filene fra dev i master -> git checkout master -> git merge dev
 
 ### Samarbeide med en kollega eller en annen konto du har for å få til merge conflict
 
-### Resolve merge conflict
+<img src="conflict.png">
 
-### (frivillig prøve ut stash, pop og cherry-pick)
+### Resolve merge conflict
